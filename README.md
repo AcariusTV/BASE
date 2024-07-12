@@ -24,7 +24,7 @@ BASE (Beginner's Abstract Simplified Environment) is designed as an introductory
 - `START` - Marks the beginning of a program.
 - `END` - Marks the end of a program.
 - `SET (name) = (value)` - Creates a variable with a specified value.
-- `SAY (type)(value)` - Outputs something in the console of a specified type (text, num, or var for variable).
+- `SAY (type)((value))` - Outputs something in the console of a specified type (text, num, or var for variable).
 - `INPUT (value)` - Displays an input field in the console.
 - `WAIT (value in seconds)` - Pauses execution for a specified time.
 - `IF (condition)` - Executes a block of code under a specified condition.
